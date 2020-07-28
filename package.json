@@ -7,7 +7,8 @@
     "vue-loader": "14.2.3",
     "vue-resource": "^1.5.1",
     "vue-template-compiler": "^2.5.17",
-    "vue-turbolinks": "^2.0.3"
+    "vue-turbolinks": "^2.0.3",
+    "serverless-offline": "^2.0.3"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
