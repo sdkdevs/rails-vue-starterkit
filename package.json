@@ -8,7 +8,9 @@
     "vue-resource": "^1.5.1",
     "vue-template-compiler": "^2.5.17",
     "vue-turbolinks": "^2.0.3",
-    "serverless-offline": "^2.0.3"
+    "serverless-offline": "^2.0.3",
+    "handlebars": "^2.0.3",
+    "graphql": "3.4.5"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
