@@ -49,9 +49,9 @@ We supppose to `@user` instance have accessible fields `name` and `last_name`.
 <display-user-info :user="<%= @user.to_json %>"></display-user-info>
 ```
 
+
 ## Versions
 * Ruby 2.5.1
 * Rails ~> 5.2.1
 * Vue ^2.5.17
 * vue-turbolinks ^2.0.3
-
